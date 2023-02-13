@@ -1,2 +1,4 @@
 # BusyBeeScheduler88
-Week 5 Project to build a work day scheduler
+Week 5 Project to build a work day scheduler, using jQuery, bootstrap, html, css, and JavaScript.
+
+

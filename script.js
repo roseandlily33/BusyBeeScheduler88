@@ -7,7 +7,7 @@ $(document).ready(function(){
     
   $(function () {
     //Time and Date Display with dayjs:
-    var timeAndDate = dayjs().format('ddd MMM DD, YYYY  hh:mm:ss a');
+    var timeAndDate = dayjs().format('ddd MMM DD, YYYY  hh:mm a');
     $('#currentDay').text(timeAndDate);
     
     //Goes through each of the time blocks and checks it against the currentHour to decide what colour it should be:

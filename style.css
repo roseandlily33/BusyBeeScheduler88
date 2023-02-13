@@ -8,7 +8,6 @@ body {
     border: none;
     resize: none;
     color: #f9f2f2;
-    border-left: 2px solid black;
     padding: 10px;
   }
    h1{
@@ -28,9 +27,11 @@ body {
   }
   
   .hour {
-    background-color: #fcf7f7;
+    background-color: #dfdfdf;
     color: #000000;
-    border-top: 1px dashed #000000;
+   
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
   }
   
   .past {
