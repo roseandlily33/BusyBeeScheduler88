@@ -6,10 +6,11 @@ I used bootstrap, and jQuery plug-ins, with HTML, CSS, and JavaScript.
 I decided to add custom colouring to make it pretty, along with taking out certain borders, adding border-radius and coming up with a colour scheme that I like and would personally use more. 
 
 ## Images:
-
+<img width="1241" alt="Screenshot 2023-02-13 at 3 05 36 PM" src="https://user-images.githubusercontent.com/109821108/218554998-05d9860a-b11c-471e-8d8e-a8f5955ddad5.png">
+<img width="1245" alt="Screenshot 2023-02-13 at 3 05 42 PM" src="https://user-images.githubusercontent.com/109821108/218554890-7f509c09-738c-4656-9a3c-49b66c5b44b5.png">
 
 ## URL Link:
-Coming soon
+https://roseandlily33.github.io/BusyBeeScheduler88/
 
 ## Difficulties:
 -I wasn't sure if the HTML portion itself was meant to be dyanmically created so I asked BCS, and they said that I could do it like this.
